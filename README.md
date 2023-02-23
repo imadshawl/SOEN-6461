@@ -1,8 +1,8 @@
 # SOEN-6461
-iGO Ticket Vending Machine
+## iGO Ticket Vending Machine
 
 
-Team Members:
+## Team Members:
 
 Ujjawal	Aggarwal	
 
