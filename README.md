@@ -79,6 +79,7 @@ Reva	Balasundaram
    </table>
 
 
+##	      
 ## Deliverable 2
 	
 
@@ -86,7 +87,7 @@ Reva	Balasundaram
       <tbody border="2px solid">
          <tr>
             <td><b>Member Name<b></td>
-            <td colspan="5" align="center"><b>Deliverable 1<b></td>
+            <td colspan="5" align="center"><b>Deliverable 2<b></td>
          </tr>
          <tr>
             <td>Varun Aggarwal</td>
